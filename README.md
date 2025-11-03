@@ -25,7 +25,7 @@ This Django project implements a to-do list app with both traditional username/p
 ## Project Structure
 
 ```
-ToDo_Django/
+task-manager-webapp/
 ├── ToDo_Django/
 │   ├── __init__.py
 │   ├── admin.py
