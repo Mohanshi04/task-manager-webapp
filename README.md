@@ -1,6 +1,6 @@
-# ToDo_Django
+# Task Manager WebApp
 
-# ToDo Django App with Email Verification
+# Task Manager Django App with Email Verification
 
 This Django project implements a to-do list app with both traditional username/password authentication and one-click email sign-in.
 
